@@ -1,0 +1,10 @@
+# ninja log v5
+4	36907	1674445853000000000	/content/drive/MyDrive/ewhain_original/대학원/연구/New_Davedrum/Pointnet2.ScanNet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/ball_query.o	7f1b69213f14dc01
+14	38715	1674445855000000000	/content/drive/MyDrive/ewhain_original/대학원/연구/New_Davedrum/Pointnet2.ScanNet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/interpolate.o	9b8eccb02be4c3ca
+9	39006	1674445855000000000	/content/drive/MyDrive/ewhain_original/대학원/연구/New_Davedrum/Pointnet2.ScanNet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/group_points.o	5a3cff4b13f26fa5
+5	46977	1674445863000000000	/content/drive/MyDrive/ewhain_original/대학원/연구/New_Davedrum/Pointnet2.ScanNet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/bindings.o	1e82a5b3408d60d2
+10	70714	1674445887000000000	/content/drive/MyDrive/ewhain_original/대학원/연구/New_Davedrum/Pointnet2.ScanNet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/group_points_gpu.o	e111cba96c5f092d
+38716	71237	1674445887000000000	/content/drive/MyDrive/ewhain_original/대학원/연구/New_Davedrum/Pointnet2.ScanNet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/sampling.o	8beaa11dda19d45b
+5	71341	1674445887000000000	/content/drive/MyDrive/ewhain_original/대학원/연구/New_Davedrum/Pointnet2.ScanNet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/ball_query_gpu.o	d464998313096257
+36955	88708	1674445905000000000	/content/drive/MyDrive/ewhain_original/대학원/연구/New_Davedrum/Pointnet2.ScanNet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/interpolate_gpu.o	8a185eb17a4adb71
+39008	91275	1674445907000000000	/content/drive/MyDrive/ewhain_original/대학원/연구/New_Davedrum/Pointnet2.ScanNet/pointnet2/build/temp.linux-x86_64-cpython-37/_ext_src/src/sampling_gpu.o	53788912a417aba6
